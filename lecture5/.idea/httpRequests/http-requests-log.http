@@ -1,0 +1,116 @@
+POST http://localhost:8080/api/login
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=F2E5B813862A84911108E0D3EAF672AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "admin",
+  "password": "1234"
+}
+
+<> 2023-11-05T174309.401.json
+
+###
+
+POST http://localhost:8080/api/login
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=F2E5B813862A84911108E0D3EAF672AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "admin",
+  "password": "1111"
+}
+
+<> 2023-11-05T174306.401.json
+
+###
+
+POST http://localhost:8080/api/login
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=F2E5B813862A84911108E0D3EAF672AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "admin",
+  "password": "1234"
+}
+
+<> 2023-11-05T174302.401.json
+
+###
+
+POST http://localhost:8080/api/login
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Content-Length: 47
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=F2E5B813862A84911108E0D3EAF672AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "admin",
+  "password": "1111"
+}
+
+<> 2023-11-05T174259.401.json
+
+###
+
+POST http://localhost:8080/api/login
+Content-Type: application/json
+X-Requested-With: XMLHttpRequest
+Content-Length: 46
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=F2E5B813862A84911108E0D3EAF672AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "user",
+  "password": "1111"
+}
+
+<> 2023-11-05T174251.401.json
+
+###
+
+POST http://localhost:8080/mypage
+Content-Type: application/x-www-form-urlencoded
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=F2E5B813862A84911108E0D3EAF672AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+username=admin&password=1111&secret_key=secret
+
+<> 2023-11-05T174236.200.html
+
+###
+
+POST http://localhost:8080/mypage
+Content-Type: application/x-www-form-urlencoded
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Cookie: JSESSIONID=F2E5B813862A84911108E0D3EAF672AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+username=admin&password=1111&secret_key=secret
+
+<> 2023-11-05T174230.200.html
+
+###
+
